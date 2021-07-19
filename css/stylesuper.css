@@ -1,0 +1,180 @@
+.thisimg img{
+    width: 500px;
+    box-shadow:20px 20px 20px #008b07;
+
+
+}
+
+.thistext{
+    color: rgb(243, 224, 54);
+    font-style: italic;
+    font-size: 80px;
+    margin: 0  0 0 120px;
+}
+
+.thisitem{
+    display: flex;
+    padding: 60px;
+    margin: 0 50px 0 0;
+
+}
+
+.container{
+    background-color: #1d87c5;
+    border:3px solid brown;
+    border-radius: 50px;
+
+    
+}
+
+
+.marketbody{
+    background-color: #7911da;
+    margin: 50px 0 50px 0;
+    border-radius: 30px;
+    border:3px solid black;
+
+}
+
+
+
+.markettext{
+    color:rgb(240, 199, 20);
+    font-size: 50px;
+    padding-top: 50px;
+    text-align: justify;
+}
+
+.marketimg img{
+    width: 400px;
+    margin: 0 20px 0 0;
+    margin-bottom: 30px;
+    margin-top: 1px;
+    padding-left: 130px;
+}
+
+.marketing{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightblue;
+    border:5px solid blue;
+    border-radius: 50px;
+}
+
+.marketing p{
+    color: #197919;
+    font-size: 40px;
+    text-indent: 130px;
+}
+
+.whoismarket{
+    display: flex;
+    background-color: #c2ace6;
+    margin: 50px 0 0 0;
+    border:5px solid #fbff1d;
+    border-radius: 40px;
+}
+
+.whotext{
+    color: #024202;
+    font-size: 30px;
+    padding: 50px;
+   
+}
+
+.whotext span{
+    color: #4e2fff;
+    text-decoration:underline #72b60d;
+}
+
+.whoimg img{
+    width: 600px;
+    height: 600px;
+    padding: 50px;
+
+}
+
+.colomn1{
+    background-color: #abc5f6;
+    border:3px solid crimson;
+    border-radius: 40px;
+    margin: 0 40px 0 0;
+}
+
+.colomn2{
+    background-color:#abc5f6 ;
+    border:3px solid crimson;
+    border-radius: 40px;
+    margin: 0 40px 0 0;
+}
+
+.colomn3{
+    background-color:#abc5f6 ;
+    border:3px solid crimson;
+    border-radius: 40px;
+    margin: 0 40px 0 0;
+}
+
+.colomn4{
+    background-color:#abc5f6 ;
+    border:3px solid crimson;
+    border-radius: 40px;
+    margin: 0 40px 0 0;
+    
+}
+
+.container10{
+    max-width: 500px;
+    display: flex;
+    flex: 0 1 33.333%;
+    margin: 50px 0 0 0;
+    padding:0 0 0 10px ;
+    
+}
+
+.t1{
+    font-size: 50px;
+    font-style: italic;
+    color: #13137e;
+    padding-right: 30px;
+}
+
+.text1{
+    font-size: 30px;
+    color: #008cff;
+    padding-right: 30px;
+}
+
+
+.conclude{
+background-color: #8095f0;
+margin: 50px 0 0  0;
+border:3px solid #03035c;
+border-radius: 30px;
+}
+
+.titleconcl{
+    font-size: 80px;
+    font-style: italic;
+    color: #1d1c1c;
+
+}
+
+.textconcl{
+    text-align: justify;
+    font-size: 30px;
+    text-decoration: underline #0000ff;
+    color: #1f1c1c;
+}
+
+.end footer{
+    color:#b8b9e4;
+    text-align: center;
+  background-color: royalblue;
+  border-radius: 30px;
+  border:5px solid sienna;
+  width: 400px;
+  font-size: 30px;
+  margin: 50px 0 0 400px;
+    
+}
